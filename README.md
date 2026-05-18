@@ -54,7 +54,7 @@ The dashboard uses an Excel dataset containing:
 
 ## 📷 Dashboard Preview
 
-(Add your GitHub screenshot link here)
+!Road Accident Analysis (https://github.com/zoyafatma-analytics/Road-Accident-Analysis/blob/main/Road%20Accident%20Analysis_Screenshot.png)
 
 ---
 
